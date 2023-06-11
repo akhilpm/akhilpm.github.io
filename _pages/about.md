@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: akhil.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -19,8 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website! I am a PhD student working at the [LIVIA](https://liviamtl.ca/) lab ETS under the supervision of Prof. [Marco Pedersoli](https://www.etsmtl.ca/en/research/professors/mpedersoli/) and [Eric Granger](https://www.etsmtl.ca/en/research/professors/egranger). My research is focussed on learning object detectors with reduced amount of supervision. Particularly, we are exploring weakly supervised, and semi-supervised methods to train detectors with less annotation. At the application side, we are focussing on object detection in aerial images from drones and satellites. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
