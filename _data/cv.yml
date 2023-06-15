@@ -12,10 +12,10 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Ecole de Technologie Superieure, Montreal
+      institution: Ecole de Technologie Superieure (ETS)
       year: 2023
       description:
-        - Advisers: Marco Pedersoli, Eric Granger
+        - "Advisers: Marco Pedersoli, Eric Granger"
         - Thesis: Learning to localize objects with limited supervision
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
