@@ -11,18 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Doctorate in Computer Vision & Machine Learning
       institution: Ecole de Technologie Superieure (ETS)
-      year: 2023
+      year: "2018-2023"
       description:
         - "Advisers: Marco Pedersoli, Eric Granger"
-        - Thesis: Learning to localize objects with limited supervision
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Learning to Localize Objects with Limited Supervision"
+    - title: Master's in Machine Learning & Computing
+      institution: Indian Institute of Space Science & Technology
+      year: "2014-2016"
       description:
-        - Description 1.
-        - Description 2.
+        - "Adviser: Sumitra Sarada"
+        - "Thesis: A Study on Deep Multi-layer Kernel Machines"
 
 - title: Experience
   type: time_table
