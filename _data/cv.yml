@@ -30,13 +30,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: ML Researcher
+      institution: Tenvos, Silicon Valley, USA (Remote, Part-time)
+      year: 2023 Oct - Present
+      description:
+        - Impairment detection from voice signals. Developing novel algorithms to identify impaired individuals in a
+          workplace due to drug, alcohol, and fatigue, by studying the resulting neuromotor effects on their voice.
     - title: Research Intern
       institution: Ericsson, Montreal, Canada
       year: 2020 - 2022
       description:
         - Computer Vision solutions for Automated Site Inspection and Fault Detection with less annotated data.
         - Automation and Quality Control of some routine tasks on Ericsson's Antenna Systems with drone images and videos.
-    - title: Data Scientist
+    - title: ML Scientist
       institution: MobME Wireless Solutions Limited, Cochin, India
       year: 2016 - 2018
       description:
